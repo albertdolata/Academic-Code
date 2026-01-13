@@ -1,4 +1,4 @@
-# Academic Code Portfolio
+# Academic Code
 
 This repository is a collection of engineering projects and laboratory exercises completed during my studies at the **Lodz University of Technology**, Faculty of Electrical, Electronic, Computer and Control Engineering. The code reflects my learning progress in various programming paradigms and hardware description languages.
 
