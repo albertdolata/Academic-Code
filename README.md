@@ -1,6 +1,6 @@
 # Academic Code
 
-This repository is a curated collection of engineering projects and laboratory exercises completed at the **Lodz University of Technology** (Faculty of EEIA). Each project represents a different stage of my technical education, moving from core programming logic to complex hardware-software systems.
+This repository is a collection of engineering projects and laboratory exercises completed at the **Lodz University of Technology** (Faculty of EEIA). Each project represents a different stage of my technical education, moving from core programming logic to complex hardware-software systems.
 
 ## Project Overviews
 
