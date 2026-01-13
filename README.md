@@ -4,7 +4,7 @@ This repository is a collection of engineering projects and laboratory exercises
 
 ## Project Overviews
 
-### 1. Space Cannon Game (C)
+### 1. Simple Game (C)
 This project is a 2D arcade game developed in pure C using a basic graphical library. It was designed to practice procedural programming and real-time game logic.
 * **Key Features:** Implementation of a main game loop, real-time user input handling, and basic physics for collision detection.
 * **Logic:** Use of structures to manage the state of multiple game objects like the player's ship, enemies, and projectiles.
